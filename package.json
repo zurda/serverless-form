@@ -1,0 +1,15 @@
+{
+  "name": "contact",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gatsby develop",
+    "server": "netlify dev"
+  },
+  "dependencies": {
+    "gatsby": "^2.21.33",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
