@@ -2,7 +2,7 @@ exports.handler = (event, _context, callback) => {
   const data = JSON.parse(event.body);
 
   const email = {
-    from: "Michal Weisman <m.weizman@gmail.com>",
+    from: "Example <example@gmail.com>",
     to: `${data.name} <${data.email}>`,
     subject: data.subject,
     text: data.body,
