@@ -1,3 +1,5 @@
+Trying out [netlify functions](https://www.netlify.com/products/functions/)
+
 ### Using Serverless Functions for form submissions
 
 - Run `yarn server` to use Netlify dev
